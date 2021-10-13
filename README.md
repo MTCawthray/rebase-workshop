@@ -24,7 +24,7 @@ RECOMMENDED MODULES
 - Scelerisque viverra mauris 
 - Vulputate enim 
 - Nulla aliquet 
-- Porttitor lacus
+
 
 INSTALLATION
 ------------
@@ -34,6 +34,7 @@ INSTALLATION
 4. Accumsan tortor posuere ac ut consequat semper. 
 5. Id semper risus in hendrerit gravida rutrum. 
 6. Vel facilisis volutpat est velit egestas dui id.
+7. wooooo hooo
 
 CONFIGURATION
 -------------
@@ -41,4 +42,4 @@ Bibendum est ultricies integer quis auctor elit sed vulputate mi. Quis eleifend 
 
 TROUBLESHOOTING
 ---------------
-At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Aliquam vestibulum morbi blandit cursus risus at ultrices mi tempus. Phasellus vestibulum lorem sed risus.
+At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Aliquam vestibulum morbi blandit cursus risus at ultrices mi 
